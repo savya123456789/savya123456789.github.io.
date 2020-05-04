@@ -1,0 +1,157 @@
+body{
+    background-color: aqua;
+}
+h1{
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 40px;
+    display: inline;
+}
+
+.btn{
+    float: right;
+    margin-right: 10px;
+    padding: 10px 10px 10px 10px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: aqua;
+    border-style: none;
+    transition: transform .2s;
+}
+.btn:hover{
+    color: aqua;
+    background-color: black;
+    cursor: grab;
+    transform: scale(1.1);
+}
+.img{
+    margin-left: 560px;
+    width: 5%;
+    height: 10vh;
+}
+.youtube2{
+    margin-left: 680px;
+    margin-top: -310px;
+    border-radius: 50%;
+}
+.youtube3{
+    margin-left: 320px;
+    border-radius: 50%;
+}
+.img2{
+    margin-left: 490px;
+    width: 6%;
+    height: 10vh;
+    margin-top: -59px;
+}
+.imgpardeep{
+    width: 18%;
+    height: 30vh;
+    margin-left: 300px;
+}
+.imgspotify{
+    width: 4%;
+    height: 8vh;
+    margin-left: 630px;
+    margin-top: -50px;
+    border-radius: 50%;
+}
+
+.imgpawan{
+    width: 18%;
+    height: 30vh;
+    margin-left: 400px;
+}
+h3{
+    font-family: unset;
+    margin-left: 400px;
+}
+.imgnaveen{
+    width: 18%;
+    height: 30vh;
+    margin-left: 500px;
+}
+.imgtwitter{
+    width: 4%;
+    height: 8vh;
+    margin-left: 695px;
+    margin-top: -50px;
+}
+.imgoutlook{
+    width: 4%;
+    height: 8vh;
+    margin-left: 760px;
+    margin-top: -50px;
+}
+.imgtele{
+    width: 4%;
+    height: 8vh;
+    margin-left: 830px;
+    margin-top: -50px;
+}
+
+.imgspotify{
+    transition: transform .1s;
+}
+.imgspotify:hover{
+    transform: scale(1.5);
+}
+.imgtele{
+    transition: transform .1s;
+}
+.imgtele:hover{
+    transform: scale(1.5);
+}
+.imgtwitter{
+    transition: transform .1s;
+}
+.imgtwitter:hover{
+    transform: scale(1.5);
+}
+.imgoutlook{
+    transition: transform .1s;
+}
+.imgoutlook:hover{
+    transform: scale(1.5);
+}
+.img{
+    transition: transform .1s;
+}
+.img:hover{
+    transform: scale(1.5);
+}
+.img2{
+    transition: transform .1s;
+}
+.img2:hover{
+    transform: scale(1.5);
+}
+.section{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-image: url(https://5.imimg.com/data5/VP/XM/MY-2626186/kabaddi-sports-flooring-500x500.jpg);
+    height: 60vh;
+    margin-top: -30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+h2{
+    margin-left: 500px;
+}
+h3{
+    margin-left: 430px;
+}
+.imgsurender{
+    width: 18%;
+    height: 30vh;
+    margin-left: 600px;
+}
+.imgfazal{
+    width: 18%;
+    height: 30vh;
+    margin-left: 700px;
+}
